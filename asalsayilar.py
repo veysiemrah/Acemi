@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 12 23:05:28 2022
-
-@author: emrah
-"""
-
 sayi=1
 asalsayilar =[]
 
